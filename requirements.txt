@@ -1,0 +1,7 @@
+streamlit
+torch
+prophet
+statsmodels
+pandas
+numpy
+scikit-learn
